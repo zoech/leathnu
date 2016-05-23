@@ -3,8 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Leathnu.iml" filepath="$PROJECT_DIR$/Leathnu.iml" />
-      <module fileurl="file://$PROJECT_DIR$/leathnu/leathnu.iml" filepath="$PROJECT_DIR$/leathnu/leathnu.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/app.iml" filepath="$PROJECT_DIR$/samples/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leathnu/leathnu.iml" filepath="$PROJECT_DIR$/leathnu/leathnu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/samples.iml" filepath="$PROJECT_DIR$/samples/samples.iml" />
     </modules>
   </component>
 </project>
